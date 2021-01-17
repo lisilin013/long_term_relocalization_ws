@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/kinetic/include",
+                "${workspaceFolder}/src/third_parities/minkindr/include",
+                "${workspaceFolder}/src/third_parities/minkindr_conversions/include",
+                "${workspaceFolder}/src/third_parities/minkindr_gtsam/include",
+                "${workspaceFolder}/devel/include/",
+                "${workspaceFolder}/devel/include/eigen3",
+                "${workspaceFolder}/devel/include/pcl-1.10",
+                "/usr/include",
+                "${workspaceFolder}/src/common/include",
+                "${workspaceFolder}/src/long_term_relocalization/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
